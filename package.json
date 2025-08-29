@@ -1,0 +1,39 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "A secure password generator with customizable length and character types",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite preview --port 3000"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "security",
+    "web-app",
+    "javascript"
+  ],
+  "author": "Julia Verea",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^7.1.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "homepage": ".",
+  "main": "index.html",
+  "files": [
+    "index.html",
+    "index.css",
+    "index.js",
+    "dist/"
+  ]
+}
